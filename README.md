@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)</br>
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Nhatthang27) </br>
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27)](https://codeforces.com/profile/Nhatthang27) </br>
 
