@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nhật Thắng</h1>
 
-<h3 align="left">Competitive Programming Stats</h3>
+<h3 align="left">Competitive Programming Stats: </h3>
 <p align="left">
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest)</br>
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27)](https://codeforces.com/profile/Nhatthang27) </br>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=tokyonight)] </br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
