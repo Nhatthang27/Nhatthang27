@@ -37,4 +37,3 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
 </p>
-!.[.].(https://leetcard.jacoblin.cool/Nhatthang27?ext=heatmap)
