@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nhật Thắng</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Competitive Programming Stats</h3>
 <p align="left">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest)</br>
 </p>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest)</br>
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Nhatthang27) </br>
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27)](https://codeforces.com/profile/Nhatthang27) </br>
 
