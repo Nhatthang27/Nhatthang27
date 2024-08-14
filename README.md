@@ -4,6 +4,10 @@
 <p align="left">
 </p>
 
+
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Nhatthang27) </br>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27)](https://codeforces.com/profile/Nhatthang27) </br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -35,6 +39,3 @@
   </a>
 </p>
 !.[.].(https://leetcard.jacoblin.cool/Nhatthang27?ext=heatmap)
-
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Nhatthang27)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27)](https://codeforces.com/profile/Nhatthang27)
