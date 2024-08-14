@@ -35,3 +35,5 @@
   </a>
 </p>
 !.[.].(https://leetcard.jacoblin.cool/Nhatthang27?ext=heatmap)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone)](https://codeforces.com/profile/redheadphone)
