@@ -2,10 +2,10 @@
 
 <h3 align="left">Competitive Programming Stats</h3>
 <p align="left">
+  ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Nhatthang27)
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest)</br>
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Nhatthang27) </br>
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27)](https://codeforces.com/profile/Nhatthang27) </br>
 
 <h3 align="left">Languages and Tools:</h3>
