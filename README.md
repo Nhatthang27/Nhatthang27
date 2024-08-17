@@ -4,8 +4,11 @@
 <p align="left">
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest)</br>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=tokyonight) </br>
+<div style="display: flex">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest)
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=tokyonight)
+</div>
+ </br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
