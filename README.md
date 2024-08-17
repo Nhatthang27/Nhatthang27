@@ -5,7 +5,7 @@
 </p>
 
 <div style="display: flex">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest) </br>
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=tokyonight)
 </div>
  </br>
