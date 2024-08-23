@@ -5,11 +5,13 @@
 </p>
 
 <div align="center">
-  <img align="left" width=396 src="https://raw.githubusercontent.com/PhiLong1st/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
-  <img align="right" width=342 src="https://leetcard.jacoblin.cool/KoKoDuDu?theme=dark&font=Asap&ext=contest"/>
+  <img align="left" width=396 src="https://raw.githubusercontent.com/Nhatthang27/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
+  <img align="right" width=342 src="https://leetcard.jacoblin.cool/Nhatthang27?theme=dark&font=Asap&ext=contest"/>
 </div>
 </br>
-<h3 align="left">Languages and Tools:</h3>
+
+<div>
+  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -39,3 +41,5 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
 </p>
+
+</div>
