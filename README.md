@@ -4,8 +4,10 @@
 <p align="left">
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nhatthang27?ext=contest) </br>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=tokyonight)
+<div align="center">
+  <img align="left" width=396 src="https://raw.githubusercontent.com/PhiLong1st/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
+  <img align="right" width=342 src="https://leetcard.jacoblin.cool/KoKoDuDu?theme=dark&font=Asap&ext=contest"/>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
