@@ -8,7 +8,7 @@
   <img align="left" width=396 src="https://raw.githubusercontent.com/PhiLong1st/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
   <img align="right" width=342 src="https://leetcard.jacoblin.cool/KoKoDuDu?theme=dark&font=Asap&ext=contest"/>
 </div>
-
+</br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
