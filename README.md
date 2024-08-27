@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img align="left" width=396 src="https://raw.githubusercontent.com/Nhatthang27/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
+  <img align="left" width=396 src="[https://raw.githubusercontent.com/Nhatthang27/cf-stats/main/output/light_card.svg#gh-dark-mode-only](https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=dark)"/>
   <img align="right" width=342 src="https://leetcard.jacoblin.cool/Nhatthang27?theme=dark&font=Asap&ext=contest"/>
 </div>
 </br>
