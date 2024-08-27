@@ -11,7 +11,6 @@
 ## 🧩 Technologies worked with
 
 <p>
-<img alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-e6712c?logo=Java&logoColor=white">
 <img alt=".Net" src="https://img.shields.io/badge/.NET-58af50.svg?logo=.NET&logoColor=white">
