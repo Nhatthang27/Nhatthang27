@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <span>https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=dark</span>
+  <img align="left" width=342 src="https://codeforces-readme-stats.vercel.app/api/card?username=Nhatthang27&theme=dark"/>
   <img align="right" width=342 src="https://leetcard.jacoblin.cool/Nhatthang27?theme=dark&font=Asap&ext=contest"/>
 </div>
 </br>
